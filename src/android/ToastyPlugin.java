@@ -1,4 +1,4 @@
-package com.lexou.cordova.plugin;
+package com.tilexou.cordova.plugin;
 // The native Toast API
 import android.widget.Toast;
 // Cordova-required packages
